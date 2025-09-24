@@ -9,6 +9,10 @@
     "build": "bun run build.ts"
   },
   "dependencies": {
+    "@langchain/core": "^0.3.77",
+    "@langchain/groq": "^0.2.4",
+    "@langchain/langgraph": "^0.4.9",
+    "@langchain/tavily": "^0.1.5",
     "bun-plugin-tailwind": "^0.0.15",
     "react": "^19",
     "react-dom": "^19",
